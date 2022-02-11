@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974225460698",
+    "project_id": "sms-messenger-f6917",
+    "storage_bucket": "sms-messenger-f6917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974225460698:android:7537514a25ee62590e44e3",
+        "android_client_info": {
+          "package_name": "com.example.sms_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974225460698-4obt8jgt3bdct4i7cqe3kvrchmebovg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sms_messenger",
+            "certificate_hash": "e980e973d98dc5624a5823d8a401d8737002b9fd"
+          }
+        },
+        {
+          "client_id": "974225460698-0h7h7khtn7dpfs99e79mleov9jkvflnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZz1KvGndqU0U5jV-koydVubHgerpSqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974225460698-0h7h7khtn7dpfs99e79mleov9jkvflnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
